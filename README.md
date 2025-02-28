@@ -27,14 +27,6 @@ Here are some of our most popular repositories:
   ![Stars](https://img.shields.io/github/stars/nottherealtar/TarsOnlineCogs?style=social)
   ![Forks](https://img.shields.io/github/forks/nottherealtar/TarsOnlineCogs?style=social)
 
-- **[Repo 2 Name](https://github.com/your-org/repo2)** - A brief description of what this repo does.  
-  ![Stars](https://img.shields.io/github/stars/your-org/repo2?style=social)
-  ![Forks](https://img.shields.io/github/forks/your-org/repo2?style=social)
-
-- **[Repo 3 Name](https://github.com/your-org/repo3)** - A brief description of what this repo does.  
-  ![Stars](https://img.shields.io/github/stars/your-org/repo3?style=social)
-  ![Forks](https://img.shields.io/github/forks/your-org/repo3?style=social)
-
 ---
 
 ## 📊 GitHub Stats
