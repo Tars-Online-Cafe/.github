@@ -1,6 +1,6 @@
 # Welcome to TarsOnlineCafe! 🚀
 
-![Organization Banner](https://via.placeholder.com/1500x500.png?text=Your+Organization+Banner) <!-- Replace with your custom banner -->
+![Organization Banner](https://via.placeholder.com/1500x500.png?text=github-header-image.png) <!-- Replace with your custom banner -->
 
 We are a passionate community of developers building awesome tools and solutions in **Python**, **TypeScript**, **React**, **Azure**, and **Flask**. Our mission is to empower developers with open-source projects, tutorials, and resources to make development faster, easier, and more fun!
 
